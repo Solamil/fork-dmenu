@@ -1,0 +1,6 @@
+*.o
+dmenu
+*.rej
+*.orig
+transient
+stest
